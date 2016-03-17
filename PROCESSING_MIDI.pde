@@ -1,4 +1,4 @@
-Ximport themidibus.*; //Import the library
+import themidibus.*; //Import the library
 
 MidiBus myBus; // The MidiBus
 float velo = 0;
